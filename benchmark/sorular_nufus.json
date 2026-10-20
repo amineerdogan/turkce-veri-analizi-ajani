@@ -1,0 +1,53 @@
+[
+  {
+    "id": "nufus_001",
+    "soru": "2025 yılında nüfusu en yüksek olan il hangisidir?",
+    "altin_cevap": "İstanbul",
+    "tur": "metin",
+    "zorluk": "kolay",
+    "hedef_tuzak": "T03"
+  },
+  {
+    "id": "nufus_002",
+    "soru": "2025 yılında illerin ortalama nüfusu kaçtır?",
+    "altin_cevap": 1062866.27,
+    "tur": "sayi",
+    "zorluk": "kolay",
+    "hedef_tuzak": "T03"
+  },
+  {
+    "id": "nufus_003",
+    "soru": "2024'ten 2025'e nüfusu azalan kaç il vardır?",
+    "altin_cevap": 33,
+    "tur": "sayi",
+    "zorluk": "orta",
+    "hedef_tuzak": "T03"
+  },
+  {
+    "id": "nufus_004",
+    "soru": "2025 yılında belde ve köylerde yaşayan nüfusu en yüksek olan il hangisidir?",
+    "altin_cevap": "Afyonkarahisar",
+    "tur": "metin",
+    "zorluk": "orta",
+    "hedef_tuzak": "T05"
+  },
+  {
+    "id": "nufus_005",
+    "soru": "2025 yılında Türkiye genelinde belde ve köylerde yaşayan toplam nüfus kaçtır?",
+    "altin_cevap": 5536693,
+    "tur": "sayi",
+    "zorluk": "orta",
+    "hedef_tuzak": "T05,T06"
+  },
+  {
+    "id": "nufus_006",
+    "soru": "2024-2025 döneminde yıllık nüfus artış hızı en yüksek olan il hangisidir ve bu hız binde kaçtır?",
+    "altin_cevap": {
+      "il": "Antalya",
+      "deger": 20.21
+    },
+    "tur": "sozluk",
+    "zorluk": "orta",
+    "hedef_tuzak": "T07"
+  }
+]
