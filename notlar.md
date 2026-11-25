@@ -17,3 +17,5 @@ Kaynak: TUIK, illere gore il/ilce merkezi, belde/koy nufusu ve yillik nufus arti
 - T07 artis hizi binde (promil), yuzde degil
 - T08 iki dilli sutun adlari, (1) dipnot isareti
 - T09 bos ayrac sutunlari
+
+- T06 GUNCELLEME: '-' degeri 30 buyuksehirde belde/koy yok demek (fiilen 0). Dogrulama: belde/koy toplami 5536693 = dosyadaki Toplam satiri. Dipnot 'Bilgi yoktur' yaniltici.
